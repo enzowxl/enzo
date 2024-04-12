@@ -6,6 +6,6 @@ Technologies
 
 Student
 
-[![Instagram](https://img.shields.io/badge/@enzowxl-000000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/enzowxl/) [![Linkedin](https://img.shields.io/badge/Enzo%20Almeida-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-a-4b685a222) [![Gmail](https://img.shields.io/badge/enzoalmeida34@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:enzoalmeida34@gmail.com)
+[![Instagram](https://img.shields.io/badge/@enzowxl-000000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/enzowxl/) [![Linkedin](https://img.shields.io/badge/Enzo%20Almeida-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-a-4b685a222) [![Gmail](https://img.shields.io/badge/contato.enzoalmeida@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:contato.enzoalmeida@gmail.com)
 
 Hello, my name is Enzo Almeida and I really enjoy developing web, bot, backend and mobile applications. </>
