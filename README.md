@@ -8,6 +8,5 @@ Student
 
 [![Instagram](https://img.shields.io/badge/@enzowxl-000000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/enzowxl/) [![Linkedin](https://img.shields.io/badge/Enzo%20Almeida-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzoalmeidadev/) [![Gmail](https://img.shields.io/badge/contact.enzoalmeida@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:contact.enzoalmeida@gmail.com)
 
-Hello, my name is Enzo Almeida and I really enjoy developing web, bot, backend and mobile applications.
-
+Hello, my name is Enzo Almeida and I really like developing software.
 
